@@ -711,75 +711,97 @@ h3 {
 .footer {
    margin-left: -35px;
    margin-right: -32px;
-   display: none;
+   padding-bottom: 50px;
+   background-color:  #f2f2f2;;
+
 }
 
 .footer__card {
    position: relative;
    display: flex;
-   margin-left: 150px;
+   margin-left: 180px;
    gap: 50px;
    font-size: small;  
 }
-.footer__card2{
-   position: absolute;
-   right: 300px;
-   
+
+.footer__card h5{
+   padding-top: 30px;
+   font-size: medium;
+   font-weight: lighter;
 }
 
 .footer__card p {
    padding: 3px;
 }
+.footer__logo--section{
+   margin-top: 5px;
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: space-between;
+   margin-left: 170px;
+   width: 750px;
+   height: 50px;
+   
+}
 
-.footer__card h5 {
-   padding-top: 30px;
-   color: grey;
+.footer__card--trip{
+   padding-left: 210px;
 }
 
 .footer__logo {
-   position: relative;
-   margin-left: 80px;
    display: flex;
-}
-
-.footer__logo img {
-   width: 40px;
-   border-radius: 30px;
+   position: relative;
+   width: 350px;
 }
 
 .footer__logo p {
    display: flex;
-   font-size: smaller;
+   font-size: x-small;
+   padding: 5px;
+   
 }
 
 .footer__select {
    display: flex;
    flex-wrap: wrap;
    align-items: flex-start;
-   gap: 40px;
+   gap: 20px;
+   
 }
 
 .footer__link {
+   position: absolute;
+   left: 220px;
    display: flex;
-   gap: 20px;
-   margin-left: 10px;
+   flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: space-between;
+   padding-top: 20px;
+   padding-left: 10px;
+   width: 700px;
+   font-size: 15px;
 }
 
 .footer__first {
    display: flex;
-   align-items: center;
    flex-wrap: wrap;
-   gap: 20px;
+   justify-content:flex-end;
+   margin-right: 200px;
+   margin-top: -40px;
+   margin-bottom: 50px;
 }
 
 .footer__country select {
    padding: 5px;
    margin: 5px;
    border-radius: 10px;
-   text-align: center;
+   text-align: start;
    color: black;
    font-weight: bold;
+   width: 160px;
 }
+
 
 .footer__country select:hover {
    color: grey;
@@ -788,8 +810,12 @@ h3 {
 
 .footer__socialmedia {
    display: flex;
+   justify-content: flex-end;
    gap: 20px;
    font-size: x-large;
+   margin-right: 200px;
+   margin-top: -40px;
+   margin-bottom: 30px;
 }
 
 .footer__socialmedia i:hover {
@@ -798,7 +824,12 @@ h3 {
 }
 
 .footer__content {
-   font-size: smaller;
+   font-size: 12px;
+   margin-top: -90px;
+   width: 750px;
+   padding-left: 190px;
+   margin-bottom: 30px;
+
 }
 
 .footer__card p:hover {
@@ -808,6 +839,6 @@ h3 {
 }
 
 .footer__link a:hover {
-   color: darkblue;
+   color: grey;
 }
 
