@@ -54,7 +54,7 @@ Copy
 
 Edit
 
-git clone https://github.com/your-username/tripadvisor-clone.git
+git clone https://priya3034.github.io/Tripadvisor/
 
 Open the index.html file in your browser.
 
