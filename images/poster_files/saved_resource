@@ -1,43 +1,0 @@
-
-var ftGUID_9154123="6294533A7E9C6D";
-var ftConfID_9154123="0";
-var ftParams_9154123="ftOBA=1&ft_agentEnv=0&ft_referrer=https%3A%2F%2F0679dc62e75302d443831ad60e621097.safeframe.googlesyndication.com%2Fsafeframe%2F1-0-41%2Fhtml%2Fcontainer.html&gdpr=0&ftClick=https://exch.quantserve.com/r?&a=p-1RYxePXT9bCS2&labels=_qc.clk,_click.adserver.rtb,_click.rand.2145794806&rtbip=103.229.8.118&rtbdata2=EAQ6Gmh0dHBzOi8vd3d3LnRyaXBhZHZpc29yLmluWigxWDFESjlCOUhpdk9mME1oMUNnS0pOY3VRWERPTEJFbDFDaUNNRW9MgAHnypj1DroBKDNiNjcwYTRmNzU1NmNkMTNlOTEyMjcxMDZhODA5M2Q4NjliODllZGLAAeCwD8gBjZ-UzuAy2gEoZmFhOTE0ZWVmNjI5YjlhYzVjZGFhY2UxNDY2YWNjOTU1MjVkNzNkZrACCMgCANACzuGG-_if98ypAegCiwHyAg4Iis0hEMHjv67X_Mn6b_ICDgiLARCLwaOKt_bTiqAB-AIAigMFMTM0MDaYAwCoAwCyAwRnUtLmugMSCY9AZz-5OfbDEYHo3_lLnBacwgMSCYlBcQa2iNR8Ed0-wh304UyjyAOAgICGAdgD9vWY_wfiAw9wLTFSWXhlUFhUOWJDUzLqAwUI2AUQWvIDBjYzNTEwOfgDAIAEmDSKBAI3N5IEDU1HTkktQVAtMTU4NTWaBBIJDUcr7_kHvbERLr8wPKpEEY-iBBIJj0BnP7k59sMRgejf-UucFpyqBBIJj0BnP7k59sMRgejf-UucFpy4BNAF0AQc8gQCSU6ABQGKBSoyMGU2OGM3YTZlYTBkZGIxMzNkYzIyOWFlZGQzN2FlYTMwOGIyNGE5ZDOQBQGaBRUg5ox6bqDdsTPcIprt03rqMIskqdOiBSRHbE16Y1NBX0IwUTdaU2hyQmtvSVZSSW1BbDBPU3F1UzhxZz24BQDABfb1mP8HyAX1uqkE0gUGCAQQAhgL6AUFmgYUChIJDUcr7_kHvbERLr8wPKpEEY-gBgCoBp3O_Sq1BsEJEjm6Bl0KAklOEgJUThin3RUiBWhvc3VyKgY2MzUxMDk6H2FpcmZpYmVyJTIwbmV0d29ya3MlMjBwdnQlMjBsdGRaH2FpcmZpYmVyJTIwbmV0d29ya3MlMjBwdnQlMjBsdGTJBptQEo2n3zkK0AY42AY44gY_X2ZwLmV2ZW50LkNDIFBhaWQgQ29udmVyc2lvbixfZnAuZXZlbnQuQ0MgVHJpYWwgQ29udmVyc2lvbixfb3Jf6gYRaHR0cHM6Ly9hZG9iZS5jb23xBgIoEo2n3zkK-AYAgAcA&redirecturl3=&ft_custom=d9OtgCCGqdx3hP6Ac4ut2iTRqNhw0amIJYT62HLR9YwkgPndJoGo38pF_bA=&site_url=tripadvisor.in&cachebuster=232247.3626269941";
-var ftKeyword_9154123="";
-var ftCustom_9154123="d9OtgCCGqdx3hP6Ac4ut2iTRqNhw0amIJYT62HLR9YwkgPndJoGo38pF_bA=";
-var ftSection_9154123="";
-var ftSegment_9154123="";
-var ftSegmentList_9154123=[];
-var ftRuleMatch_9154123="0";
-var ftTimestamp_9154123="1743922798";
-var ftGeoC2_9154123="in";
-var ftGeoState_9154123="tn";
-var ftGeoCity_9154123="hosur";
-var ftISP_9154123="airfiber networks pvt ltd";
-var ftSpeed_9154123="broadband";
-var ftConnType_9154123="wifi";
-var ftDMA_9154123="356007";
-var ftLong_9154123="77.82";
-var ftLat_9154123="12.73";
-var ftPostal_9154123="635109";
-var ftTimeZone_9154123="+530";
-var ftMobileCarrier_9154123="";
-var ftImp9154123 = {};
-ftImp9154123.privacy = "x";
-ftImp9154123.guidAge = "11";
-ftImp9154123.impID = "790350A0-DD90-3DD9-2DDE-02117374819D";
-ftImp9154123.duid = "FT:6294533A7E9C6D";
-
-ftImp9154123.ft_tpplid = "";
-ftImp9154123.ft_c = {};
-ftImp9154123.gdpr = "0";
-ftImp9154123.gdpr_consent = "";
-ftImp9154123.gdpr_pd = "";
-ftImp9154123.oob_consent = "";
-ftImp9154123.gdprStoredConsent = "";
-ftImp9154123.us_privacy = "";
-ftImp9154123.gpc = "";
-
-ftImp9154123.jsAppend = "1";
-var ftCreativeId_9154123 = "4919201";
-(function(){var tag=document.getElementById("ft_servedby_9154123")||function(s){return s[s.length-1]}(document.getElementsByTagName("script")),js=document.createElement("script");js.src="https://ajs-assets.ftstatic.com/ftUtils.js";js.id="ftscript_m9154123";js.setAttribute("name","ftscript_m9154123");tag.parentNode.insertBefore(js,tag)})();window.fTChecker=window.fTChecker||function(id){if(!id)return false;id=""+id;if(window.hasOwnProperty("ftUtils")){window["ft"+id]=Object.assign({},window.ftUtils.common);window["ft"+id].getBannerConfig(id)}else(function(id){window.setTimeout(function(){window.fTChecker(id)},50)})(id)};window.fTChecker("9154123");
-
