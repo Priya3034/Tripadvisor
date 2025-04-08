@@ -776,7 +776,7 @@ h3 {
    flex-wrap: wrap;
    justify-content: space-between;
    padding-top: 20px;
-   padding-left: 10px;
+   padding-left: 40px;
    width: 700px;
    font-size: 15px;
 }
@@ -785,7 +785,7 @@ h3 {
    display: flex;
    flex-wrap: wrap;
    justify-content:flex-end;
-   margin-right: 200px;
+   margin-right: 150px;
    margin-top: -40px;
    margin-bottom: 50px;
 }
@@ -810,8 +810,8 @@ h3 {
    display: flex;
    justify-content: flex-end;
    gap: 20px;
-   font-size: x-large;
-   margin-right: 200px;
+   font-size: large;
+   margin-right: 150px;
    margin-top: -40px;
    margin-bottom: 30px;
 }
@@ -823,7 +823,7 @@ h3 {
 
 .footer__content {
    font-size: 12px;
-   margin-top: -90px;
+   margin-top: -10px;
    width: 750px;
    padding-left: 190px;
    margin-bottom: 30px;
